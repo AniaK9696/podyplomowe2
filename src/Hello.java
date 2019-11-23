@@ -8,5 +8,6 @@ public class Hello {
         String name = scan.nextLine();
 
         System.out.println("Hello " + name+"!");
+         System.out.println("¯\_(ツ)_/¯");
     }
 }
